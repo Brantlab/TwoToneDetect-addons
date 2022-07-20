@@ -2,7 +2,7 @@
 
 I have setup twotonedetect to upload to a webserver that is running to host the audio connections. The alerts come in looking like. 
 
-![Dispatch.jpg](pushover/img/dispatch.jpg)
+![Dispatch.jpg](img/dispatch.jpg)
 
 Upon launching the notice I have mine configured to automatically launch the audio.
 
