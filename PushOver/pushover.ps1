@@ -5,9 +5,6 @@ $domain = "<Your base url>" #Example https://dispatch.brantlab.com/
 $Url = $domain + $filename
 
 # This header tells we're passing a JSON payload
-$header = @{
-  "Content-Type"="application/json"
-} 
 
 ## PUSHOVER
 $data = @{
